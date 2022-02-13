@@ -1,9 +1,11 @@
 module.exports = {
-  reactStrictMode: true,
-  "redirects": [
-    { 
-      "source": "/redirect",
-      "destination": "https://vercel.com/", 
-      "permanent": true
-    }
+  async redirects() {
+    return [
+      {
+        source: '/redirect',
+        destination: 'https://vercel.com',
+        permanent: true,
+      },
+    ]
+  },
 }
