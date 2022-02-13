@@ -11,6 +11,7 @@ confidence of a number of clients in our offering is always very helpful as most
 <p>1.Manage a support team- I am happy to lead a team but managing a team is responsibilty that I&#39;d like to avoid as at times managers struggle to be hundred percent transperent with the team. I&#39;ve respectfully declined all opportunies to be manager in the past. I&#39;d be happy to manage a team for a shorter time while we are waiting manager&#39;s position to be closed.<br></br>2.
 Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites - Something I&#39;like to avoid for now as my written commmunication is not up to mark to represent an organization at platform
 where my comments would be read by tens of thousands of people.</p></div>
+}
 export default familiarisation
 
 
