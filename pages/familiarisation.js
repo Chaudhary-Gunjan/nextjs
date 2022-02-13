@@ -8,9 +8,9 @@ confidence of a number of clients in our offering is always very helpful as most
 <p>5 Least Favourite:</p>
 
 
-<p>1.Manage a support team- I am happy to lead a team but managing a team is responsibilty that I&#39;d like to avoid as at times mamagers struggle to be hundred percent transperent with the team<br></br>2.
-Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites - something I&#39;like to avoid for now as my written commmunication is not up to mark to represent an organization at platform
-where my comments would be readed by tens of thousands of people.</p></div>
+<p>1.Manage a support team- I am happy to lead a team but managing a team is responsibilty that I&#39;d like to avoid as at times mamagers struggle to be hundred percent transperent with the team. I&#39;ve respectfully declined all opportunies to be manager in the past<br></br>2.
+Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites - Something I&#39;like to avoid for now as my written commmunication is not up to mark to represent an organization at platform
+where my comments would be read by tens of thousands of people.</p></div>
 
 
 }
