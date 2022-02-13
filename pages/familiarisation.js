@@ -14,9 +14,8 @@ where my comments would be read by tens of thousands of people.</p>
   
   
 <h1>Answer #2</h1>
-<p>Happy to do all the nineteen things listed in Question #1 except managing a team. Beside those, I&#39;d like to learn coding and internals of node, react and Next.js</p>
+<p>Happy to do all the nineteen things listed in Question #1 except managing a team. Beside those, I&#39;d like to learn coding and internals of Node, React and Next.js</p>
 </div>
-  
   
   
 }
