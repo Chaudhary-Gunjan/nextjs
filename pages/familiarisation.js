@@ -28,7 +28,7 @@ of a problem, I came across Sysinternals tools, and just after going through the
 4) Security or Hardening of backenf infra<br></br></p>
   
   <h1>Answer #5</h1>
-  <p>If we have a support KB article already created for an issue/question, I'd prefer to send the URL of the same instead of writing steps on my own. This is what I'd write to the client.<br></br>
+  <p>If we have a support KB article already created for an issue/question, I&#39;d prefer to send the URL of the same instead of writing steps on my own. This is what I&#39;d write to the client.<br></br>
 ----------------------------------------------------------------------------------------------------------------------------<br></br>
 Hello xyz<br></br>
 
