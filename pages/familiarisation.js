@@ -24,7 +24,7 @@ of a problem, I came across Sysinternals tools, and just after going through the
 <p>Most common problems/concenrs/queries raised by Vercel clients could be related to: <br></br>
 1) DNS migration<br></br>
 2) Payments<br></br> 
-3) Billing\Cost Control - Max utilization of avalaible resources with less spending<br></br>
+3) Billing/Cost Control - Max utilization of avalaible resources with less spending<br></br>
 4) Security or Hardening of backenf infra<br></br></p>
   
   </div>
