@@ -34,7 +34,7 @@ Hello xyz<br></br>
 
 Good Morning and thank you for contacting Vercel Support. Please use the information presented in one of our support articles (link below)<br></br><br></br>
 
-<a href="https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#other-redirects">Sysinternals</a></p>
+<a href="https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#other-redirects">Sysinternals</a>
 
 <br></br><br></br>
 
@@ -42,9 +42,7 @@ Good Morning and thank you for contacting Vercel Support. Please use the informa
 
 Kind regards<br></br>
 Vercel Support<br></br>
------------------------------------------------------------------------------------------------------------------------------<br></br></p>
-   
-  </div>
+-----------------------------------------------------------------------------------------------------------------------------<br></br></p></div>
   
 }
 export default familiarisation
