@@ -38,7 +38,7 @@ Good Morning and thank you for contacting Vercel Support. Please use the informa
 
 <br></br><br></br>
 
-'source' and 'destination' can be changed as per your requirement. Let us know if you have any further queries/concerns once you go through/follow the steps in the article.<br></br><br></br>
+&#39;source&#39; and &#39;destination&#39; can be changed as per your requirement. Let us know if you have any further queries/concerns once you go through/follow the steps in the article.<br></br><br></br>
 
 Kind regards<br></br>
 Vercel Support<br></br>
