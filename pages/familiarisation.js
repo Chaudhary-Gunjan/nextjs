@@ -27,6 +27,23 @@ of a problem, I came across Sysinternals tools, and just after going through the
 3) Billing/Cost Control - Max utilization of avalaible resources with less spending<br></br>
 4) Security or Hardening of backenf infra<br></br></p>
   
+  <h1>Answer #5</h1>
+  <p>If we have a support KB article already created for an issue/question, I'd prefer to send the URL of the same instead of writing steps on my own. This is what I'd write to the client.<br></br>
+----------------------------------------------------------------------------------------------------------------------------<br></br>
+Hello xyz<br></br>
+
+Good Morning and thank you for contacting Vercel Support. Please use the information presented in one of our support articles (link below)<br></br><br></br>
+
+<a href="https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#other-redirects">Sysinternals</a></p>
+
+<br></br><br></br>
+
+'source' and 'destination' can be changed as per your requirement. Let us know if you have any further queries/concerns once you go through/follow the steps in the article.<br></br><br></br>
+
+Kind regards<br></br>
+Vercel Support<br></br>
+-----------------------------------------------------------------------------------------------------------------------------<br></br></p>
+   
   </div>
   
 }
