@@ -4,7 +4,7 @@ module.exports = {
       {
         source: '/redirect',
         destination: 'https://vercel.com',
-        permanent: true,
+        permanent: faaa,
       },
     ]
   },
