@@ -27,9 +27,8 @@ Hello xyz<br></br>
 
 Good Morning and thank you for contacting Vercel Support. Please use the information presented in one of our support articles (link below)<br></br><br></br>
 
-<Link href="https://attacomsian.com/blog/javascript-open-url-in-new-tab">
-  <a>Click this link</a>
-</Link>
+<p>Click <a href="https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#other-redirects" rel="noreferrer">here</a>to go to KB article</p>
+  
 <br></br><br></br>
 
 &#39;source&#39; and &#39;destination&#39; can be changed as per your requirement. Let us know if you have any further queries/concerns once you go through/follow the steps in the article.<br></br><br></br>
