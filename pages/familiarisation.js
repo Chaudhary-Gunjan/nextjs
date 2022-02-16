@@ -22,7 +22,7 @@ of a problem, I came across Sysinternals tools (now part Microsoft), and just af
 (I & my team&#39;s) lives completely and it was right. Click <a href="https://docs.microsoft.com/en-us/sysinternals/" rel="noreferrer"><u>here</u></a> to go to Sysinternals home page.</p>
 
  <h1>Answer #4</h1>
- <p>Below link/page redirects to Vercel home.</p><br></br>
+ <p>Below link/page redirects to Vercel home.</p>
   <a href="https://nextjs-chaudhary-gunjan.vercel.app/redirect" rel="noreferrer"><u>https://nextjs-chaudhary-gunjan.vercel.app/redirect</u></a>
  <br></br>
   
