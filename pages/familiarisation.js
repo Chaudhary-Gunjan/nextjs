@@ -23,13 +23,13 @@ of a problem, I came across Sysinternals tools, and just after going through the
  <h1>Answer #5</h1>
  <p>If we have a support KB article already created for an issue/question, I&#39;d prefer to send the URL of the same instead of writing steps on my own. This is what I&#39;d write to the client.<br></br>
 ----------------------------------------------------------------------------------------------------------------------------<br></br>
-Hello xyz<br></br>
+Hello xyz<br></br><br></br>
 
 Good Morning and thank you for contacting Vercel Support. Please use the information presented in one of our support articles (link below)<br></br><br></br>
 
 <p>Click <a href="https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#other-redirects" rel="noreferrer"><u>here</u></a> to go to KB article</p>
   
-<br></br><br></br>
+<br></br>
 
 &#39;source&#39; and &#39;destination&#39; can be changed as per your requirement. Let us know if you have any further queries/concerns once you go through/follow the steps in the article.<br></br><br></br>
 
