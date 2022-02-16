@@ -16,19 +16,12 @@ where my comments would be read by tens of thousands of people.</p>
 <h1>Answer #2</h1>
 <p>Happy to do all the nineteen things listed in Question #1 except managing a team. Beside those, I&#39;d like to learn coding and internals of Node, React and Next.js</p>
   
- <h1>Answer #3</h1>
+<h1>Answer #3</h1>
 <p>When I started my journey at Precisely (then Pitney Bowes), I used to support a product that was very widely used on Windows. The team was relatively new and since troubleshooting client cases/tickets was our primary task it was not going very well as we were unaware of tools that can present a complete picture of what is happening under the hood even when we were able to replicate the client&#39;s problem locally (It was the time when SAAS and Cloud were just emerging so all the clients were using our offering on-premises). While researching on a possible root cause
 of a problem, I came across Sysinternals tools, and just after going through their website for 10-20 minutes, I knew this is going to change our (me & my team&#39;s) lives completely and it was right. Link to Sysinternals (now part Microsoft) web page <a href="https://docs.microsoft.com/en-us/sysinternals/">Sysinternals</a></p>
 
-   <h1>Answer #7</h1>
-<p>Most common problems/concenrs/queries raised by Vercel clients could be related to: <br></br>
-1) DNS migration<br></br>
-2) Payments<br></br> 
-3) Billing/Cost Control - Max utilization of avalaible resources with less spending<br></br>
-4) Security or Hardening of backenf infra<br></br></p>
-  
-  <h1>Answer #5</h1>
-  <p>If we have a support KB article already created for an issue/question, I&#39;d prefer to send the URL of the same instead of writing steps on my own. This is what I&#39;d write to the client.<br></br>
+ <h1>Answer #5</h1>
+ <p>If we have a support KB article already created for an issue/question, I&#39;d prefer to send the URL of the same instead of writing steps on my own. This is what I&#39;d write to the client.<br></br>
 ----------------------------------------------------------------------------------------------------------------------------<br></br>
 Hello xyz<br></br>
 
@@ -42,7 +35,16 @@ Good Morning and thank you for contacting Vercel Support. Please use the informa
 
 Kind regards<br></br>
 Vercel Support<br></br>
------------------------------------------------------------------------------------------------------------------------------<br></br></p></div>
+-----------------------------------------------------------------------------------------------------------------------------<br></br></p>
+  
+   <h1>Answer #7</h1>
+<p>Most common problems/concenrs/queries raised by Vercel clients could be related to: <br></br>
+1) DNS migration<br></br>
+2) Payments<br></br> 
+3) Billing/Cost Control - Max utilization of avalaible resources with less spending<br></br>
+4) Security or Hardening of backenf infra<br></br></p>
+  
+</div>
   
 }
 export default familiarisation
