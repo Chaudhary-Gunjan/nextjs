@@ -27,7 +27,11 @@ Hello xyz<br></br>
 
 Good Morning and thank you for contacting Vercel Support. Please use the information presented in one of our support articles (link below)<br></br><br></br>
 
-<a href="https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#other-redirects" rel="noreferrer">here</a>
+<Link href={"https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#other-redirects" rel="noreferrer"}>
+  <a target="_blank">Click this link</a>
+</Link>  
+  
+
 
 <br></br><br></br>
 
