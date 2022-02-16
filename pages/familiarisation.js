@@ -44,6 +44,9 @@ Vercel Support<br></br>
 3) Billing/Cost Control - Max utilization of avalaible resources with less spending<br></br>
 4) Security or Hardening of backenf infra<br></br></p>
   
+  <h1>Answer #8</h1>
+ <p>In question #1 instead of ranking 5 most faviorite and 5 least favorite, ask can be to rank all 19 in order of one's preference. This will give us more details on candidate's preferences</p> 
+  
 </div>
   
 }
