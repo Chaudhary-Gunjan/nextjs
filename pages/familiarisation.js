@@ -18,7 +18,8 @@ where my comments would be read by tens of thousands of people.</p>
   
 <h1>Answer #3</h1>
 <p>When I started my journey at Precisely (then Pitney Bowes), I used to support a product that was very widely used on Windows. The team was relatively new and since troubleshooting client cases/tickets was our primary task it was not going very well as we were unaware of tools that can present a complete picture of what is happening under the hood even when we were able to replicate the client&#39;s problem locally (It was the time when SAAS and Cloud were just emerging so all the clients were using our offering on-premises). While researching on a possible root cause
-of a problem, I came across Sysinternals tools (now part Microsoft), and just after going through their website for 10-20 minutes, I knew this is going to change our (I & my team&#39;s) lives completely and it was right. <p>Click <a href="https://docs.microsoft.com/en-us/sysinternals/" rel="noreferrer"><u>here</u></a> to go to Sysinternals homr page</p>
+of a problem, I came across Sysinternals tools (now part Microsoft), and just after going through their website for 10-20 minutes, I knew this is going to change our 
+(I & my team&#39;s) lives completely and it was right. Click <a href="https://docs.microsoft.com/en-us/sysinternals/" rel="noreferrer"><u>here</u></a> to go to Sysinternals homr page</p>
 
  <h1>Answer #5</h1>
  <p>If we have a support KB article already created for an issue/question, I&#39;d prefer to send the URL of the same instead of writing steps on my own. This is what I&#39;d write to the client.<br></br>
