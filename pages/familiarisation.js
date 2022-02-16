@@ -23,7 +23,7 @@ of a problem, I came across Sysinternals tools (now part Microsoft), and just af
 
  <h1>Answer #4</h1>
  <p>Below link/page redirects to Vercel home.</p><br></br>
-  <a href="https://nextjs-chaudhary-gunjan.vercel.app/redirect" rel="noreferrer"><u>"https://nextjs-chaudhary-gunjan.vercel.app/redirect"</u></a>
+  <a href="https://nextjs-chaudhary-gunjan.vercel.app/redirect" rel="noreferrer"><u>https://nextjs-chaudhary-gunjan.vercel.app/redirect</u></a>
  <br></br>
   
  <h1>Answer #5</h1>
