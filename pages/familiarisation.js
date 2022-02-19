@@ -35,6 +35,24 @@ Click <a href="https://vercel.com/support/articles/does-vercel-support-permanent
 Kind regards<br></br>
 Vercel Support<br></br>
 -----------------------------------------------------------------------------------------------------------------------------<br></br></p>
+<h1>Answer #6</h1>
+-------------------------------------------------------------------------------------------------------------------------------<br></br>
+Hello xyz,
+
+<p>Follow these steps:
+1) Go to Vercel project in which you want to use domain purchased at 'GoDaddy'.<br></br>
+2) Go to 'Domains' in Project settings and click 'Add' after giving the domain to added. <br></br>
+3) One you click 'Add', you may be given recommendation on redirection on 'Add Domain'. <br></br>
+4) 'Invalid configuration' would be observed under the added domain until DNS record is added on the GoDaddy. <br></br>
+With the invalid configuration, you'll get recommended record type, name and value. <br></br>
+5) Go to GoDaddy Domain Control Center. Under DNS management, add the record type, name & Value. <br></br></p>
+
+<p>You may have to add multiple records, depending on the domain name added. This change may take between few minutes to few hours to take effect. Once it takes effect, you will not see 'Invalid configuration'.</p>
+<p>Click here to more about adding custom DNS in a Vercel Project. Let us know if you have any further queries/concerns once you go through/follow the steps.</p><br></br><br></br>
+
+Kind regards<br></br>
+Vercel Support<br></br>
+---------------------------------------------------------------------------------------------------------------------------------
   
 <h1>Answer #7</h1>
 <p>Most common problems/concenrs/queries raised by Vercel clients could be related to: <br></br>
