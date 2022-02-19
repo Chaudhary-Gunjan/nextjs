@@ -43,7 +43,7 @@ Hello xyz,
 2) Go to &#39;Domains&#39; in Project &#39;Settings&#39; and click &#39;Add&#39; after giving the domain to be added. <br></br>
 3) One you click &#39;Add&#39;, you may be given recommendation on redirection in &#39;Add Domain&#39; window. <br></br>
 4) &#39;Invalid configuration&#39; would be observed under the added domain until DNS record is added on the GoDaddy. With the invalid configuration, you&#39;ll get recommended record type, name and value. <br></br>
-5) Go to GoDaddy Domain Control Center. Under DNS management, add the record type, name & Value. <br></br></p>
+5) Log into GoDaddy Domain Control Center. Under DNS management, add the record type, name & Value. <br></br></p>
 
 <p>You may have to add multiple records, depending on the domain name. This change may take between few minutes to few hours to take effect. Once it takes effect, you will not see &#39;Invalid configuration&#39;.</p>
 
@@ -66,7 +66,7 @@ Vercel Support<br></br>
 7) Latency</p>
   
  <h1>Answer #8</h1>
- <p>In question #1 instead of ranking 5 most favourite and 5 least favorite, ask can be to rank all 19 in order of one&#39;s preference. This will give us more details on candidate&#39;s preferences</p> 
+ <p>In question #1, instead of ranking 5 most favourite and 5 least favorite, ask can be to rank all 19 in order of one&#39;s preference. This will give us more details on candidate&#39;s preferences</p> 
   
 </div>
   
