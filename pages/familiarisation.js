@@ -47,7 +47,7 @@ Hello xyz,
 5) Go to GoDaddy Domain Control Center. Under DNS management, add the record type, name & Value. <br></br></p>
 
 <p>You may have to add multiple records, depending on the domain name. This change may take between few minutes to few hours to take effect. Once it takes effect, you will not see &#39;Invalid configuration&#39;.</p>
-<p>Click here to more about adding custom DNS in a Vercel Project. Let us know if you have any further queries/concerns once you go through/follow the steps.</p><br></br><br></br>
+<p>Click here to more about adding custom DNS in a Vercel Project. Let us know if you have any further queries/concerns once you go through/follow the steps.</p><br></br>
 
 Kind regards<br></br>
 Vercel Support<br></br>
