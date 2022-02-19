@@ -7,7 +7,7 @@ confidence of a number of clients in our offering is always very helpful as most
 <br></br>4.Help train and onboard new support teammates - This does not only help team/organization but also creates a bond between teammates which is very helpful when it comes to &#39;one team one dream&#39;. <br></br>5.Work with people to figure out if Vercel is suitable for their use case - Client use case is where it all starts + knowing the client&#39;s use case always helps in understanding how they are using our offerings.</p>
 <p>5 Least Favourite:</p>
 <p>1.Manage a support team- I am happy to lead a team but managing a team is responsibility that I&#39;d like to avoid as at times managers struggle to be hundred percent transparent with the team. I&#39;d be happy to manage a team for a shorter time while we are waiting manager&#39;s position to be closed.<br></br>2.
-Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites - Something I&#39;dlike to avoid for now as my written communication is not up to mark to represent an organization at platform
+Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites - Something I&#39;d like to avoid for now as my written communication is not up to mark to represent an organization at platform
 where my comments would be read by tens of thousands of people.</p>
 
 <h1>Answer #2</h1>
