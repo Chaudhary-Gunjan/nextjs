@@ -48,7 +48,7 @@ Hello xyz,
 
 <p>You may have to add multiple records, depending on the domain name. This change may take between few minutes to few hours to take effect. Once it takes effect, you will not see &#39;Invalid configuration&#39;.</p>
 
- <p>Click <a href="https://vercel.com/docs/concepts/projects/custom-domains" rel="noreferrer"><u>here</u></a> to know more about adding custom DNS in a Vercel Project.<br></br><br></br>
+ <p>Click <a href="https://vercel.com/docs/concepts/projects/custom-domains" rel="noreferrer"><u>here</u></a> to know more about adding custom Domain in a Vercel Project.<br></br><br></br>
   
 Let us know if you have any further queries/concerns once you go through/follow the steps.</p><br></br>
 
