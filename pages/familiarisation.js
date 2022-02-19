@@ -26,7 +26,7 @@ of a problem, I came across Sysinternals tools (now part Microsoft), and just af
 <p>If we have a support KB article already created for an issue/question, I&#39;d prefer to send the URL of the same instead of writing steps on my own. This is what I&#39;d write to the client.<br></br>
 ----------------------------------------------------------------------------------------------------------------------------<br></br>
 Hello xyz<br></br><br></br>
-Good Morning and thank you for contacting Vercel Support. Please use the information presented in one of our support articles (link below)<br></br><br></br>
+Greetings and thank you for contacting Vercel Support. Please use the information presented in one of our support articles (link below)<br></br><br></br>
 Click <a href="https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#other-redirects" rel="noreferrer"><u>here</u></a> to go to KB article.
 <br></br><br></br>
 
@@ -38,8 +38,7 @@ Vercel Support<br></br>
 <h1>Answer #6</h1>
 -------------------------------------------------------------------------------------------------------------------------------<br></br>
 Hello xyz,
-
-<p>Follow these steps:<br></br>
+<p>Greetings and thank you for contacting Vercel Support. Follow these steps:<br></br>
 1) Go to Vercel project in which you want to use domain purchased at &#39;GoDaddy&#39;.<br></br>
 2) Go to &#39;Domains&#39; in Project &#39;Settings&#39; and click &#39;Add&#39; after giving the domain to be added. <br></br>
 3) One you click &#39;Add&#39;, you may be given recommendation on redirection in &#39;Add Domain&#39; window. <br></br>
@@ -48,7 +47,7 @@ Hello xyz,
 
 <p>You may have to add multiple records, depending on the domain name. This change may take between few minutes to few hours to take effect. Once it takes effect, you will not see &#39;Invalid configuration&#39;.</p>
 
- <p>Click <a href="https://vercel.com/support/articles/does-vercel-support-permanent-redirects?query=redire#other-redirects" rel="noreferrer"><u>here</u></a> to know more about adding custom DNS in a Vercel Project.<br></br><br></br>
+ <p>Click <a href="https://vercel.com/docs/concepts/projects/custom-domains" rel="noreferrer"><u>here</u></a> to know more about adding custom DNS in a Vercel Project.<br></br><br></br>
   
 Let us know if you have any further queries/concerns once you go through/follow the steps.</p><br></br>
 
