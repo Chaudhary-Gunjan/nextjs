@@ -36,7 +36,7 @@ Kind regards<br></br>
 Vercel Support<br></br>
 -----------------------------------------------------------------------------------------------------------------------------<br></br></p>
 <h1>Answer #6</h1>
-This is what I&#39;d write to the client.
+This is what I&#39;d write to the client.<br></br>
 -------------------------------------------------------------------------------------------------------------------------------<br></br>
 Hello xyz,
 <p>Greetings and thank you for contacting Vercel Support. Follow these steps:<br></br>
