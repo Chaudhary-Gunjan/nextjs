@@ -40,14 +40,14 @@ Vercel Support<br></br>
 Hello xyz,
 
 <p>Follow these steps:
-1) Go to Vercel project in which you want to use domain purchased at 'GoDaddy'.<br></br>
-2) Go to 'Domains' in Project settings and click 'Add' after giving the domain to added. <br></br>
-3) One you click 'Add', you may be given recommendation on redirection on 'Add Domain'. <br></br>
-4) 'Invalid configuration' would be observed under the added domain until DNS record is added on the GoDaddy. <br></br>
-With the invalid configuration, you'll get recommended record type, name and value. <br></br>
+1) Go to Vercel project in which you want to use domain purchased at &#39;GoDaddy&#39;.<br></br>
+2) Go to &#39;Domains&#39; in Project settings and click &#39;Add&#39; after giving the domain to added. <br></br>
+3) One you click &#39;Add&#39;, you may be given recommendation on redirection on &#39;Add Domain&#39;. <br></br>
+4) &#39;Invalid configuration&#39; would be observed under the added domain until DNS record is added on the GoDaddy. <br></br>
+With the invalid configuration, you&#39;ll get recommended record type, name and value. <br></br>
 5) Go to GoDaddy Domain Control Center. Under DNS management, add the record type, name & Value. <br></br></p>
 
-<p>You may have to add multiple records, depending on the domain name added. This change may take between few minutes to few hours to take effect. Once it takes effect, you will not see 'Invalid configuration'.</p>
+<p>You may have to add multiple records, depending on the domain name added. This change may take between few minutes to few hours to take effect. Once it takes effect, you will not see &#39;Invalid configuration&#39;.</p>
 <p>Click here to more about adding custom DNS in a Vercel Project. Let us know if you have any further queries/concerns once you go through/follow the steps.</p><br></br><br></br>
 
 Kind regards<br></br>
