@@ -6,8 +6,8 @@ return <div>
 confidence of a number of clients in our offering is always very helpful as most of the times they are like low hanging fruits with very high ROI.<br></br>3.Find and recruit teammates for the support team - Having the right ppl on onboard is extremely critical to the success of any organization/team. I&#39;ve been doing this for a long and would like to continue doing so.
 <br></br>4.Help train and onboard new support teammates - This does not only help team/organization but also creates a bond between teammates which is very helpful when it comes to &#39;one team one dream&#39; <br></br>5.Work with people to figure out if Vercel is suitable for their use case - Client use case is where it all starts + knowing the client&#39;s use case always helps in understanding how they are using our offerings.</p>
 <p>5 Least Favourite:</p>
-<p>1.Manage a support team- I am happy to lead a team but managing a team is responsibility that I&#39;d like to avoid as at times managers struggle to be hundred percent transperent with the team. I&#39;d be happy to manage a team for a shorter time while we are waiting manager&#39;s position to be closed.<br></br>2.
-Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites - Something I&#39;like to avoid for now as my written commmunication is not up to mark to represent an organization at platform
+<p>1.Manage a support team- I am happy to lead a team but managing a team is responsibility that I&#39;d like to avoid as at times managers struggle to be hundred percent transparent with the team. I&#39;d be happy to manage a team for a shorter time while we are waiting manager&#39;s position to be closed.<br></br>2.
+Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites - Something I&#39;dlike to avoid for now as my written communication is not up to mark to represent an organization at platform
 where my comments would be read by tens of thousands of people.</p>
 
 <h1>Answer #2</h1>
@@ -56,17 +56,17 @@ Vercel Support<br></br>
 ---------------------------------------------------------------------------------------------------------------------------------
   
 <h1>Answer #7</h1>
-<p>Most common problems/concenrs/queries raised by Vercel clients could be related to: <br></br>
+<p>Most common problems/concerns/queries raised by Vercel clients could be related to: <br></br>
 1) DNS usage<br></br>
 2) DNS migration<br></br>
 3) Application migration from other cloud vendors (AWS etc.) to Vercel<br></br> 
-4) Billing/Cost Control - Max utilization of avalaible resources with less spending<br></br>
-5) Security/Hardening of backenf infra<br></br>
+4) Billing/Cost Control - Max utilization of available resources with less spending<br></br>
+5) Security/Hardening of backend infra<br></br>
 6) Issues with the Next.js code<br></br>
 7) Latency</p>
   
  <h1>Answer #8</h1>
- <p>In question #1 instead of ranking 5 most faviorite and 5 least favorite, ask can be to rank all 19 in order of one&#39;s preference. This will give us more details on candidate&#39;s preferences</p> 
+ <p>In question #1 instead of ranking 5 most favourite and 5 least favorite, ask can be to rank all 19 in order of one&#39;s preference. This will give us more details on candidate&#39;s preferences</p> 
   
 </div>
   
