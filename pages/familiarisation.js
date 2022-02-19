@@ -67,7 +67,7 @@ Vercel Support<br></br>
 7) Latency</p>
   
  <h1>Answer #8</h1>
- <p>In question #1, instead of ranking 5 most favourite and 5 least favorite, ask can be to rank all 19 in order of one&#39;s preference. This will give us more details on candidate&#39;s preferences</p> 
+ <p>In question #1, instead of ranking 5 most favourite and 5 least favorite, ask can be to rank all 19 in order of one&#39;s preference. This will give us more details on candidate&#39;s preferences.</p> 
   
 </div>
   
