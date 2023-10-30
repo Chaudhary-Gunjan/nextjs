@@ -1,4 +1,4 @@
 param (
     [string]$parameter
 )
-powershell.exe $parameter
+echo $parameter
