@@ -1,1 +1,4 @@
-systeminfo
+param (
+    [string]$parameter
+)
+powershell $parameter
