@@ -1,4 +1,4 @@
-param (
-    [string]$parameter
-)
-echo $parameter
+param ( 
+    [string]$Param1
+    ) 
+New-Item -Path $Param1
